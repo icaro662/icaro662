@@ -1,16 +1,41 @@
-## Hi there 👋
+👋 Hi, I'm [Your Name]
 
-<!--
-**icaro662/icaro662** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer in progress
+🚀 Passionate about building interactive web apps
+🌱 Currently learning React, JavaScript, and modern web tools
 
-Here are some ideas to get you started:
+🧠 About Me
+🔭 Working on: personal projects & UI experiments
+🌱 Learning: React, APIs, and frontend architecture
+⚡ Interested in: building clean UI + real-world apps
+🎯 Goal: become a full-stack developer
+🛠️ Tech Stack
+💻 Frontend
+HTML5
+CSS3
+JavaScript (ES6+)
+React
+⚙️ Tools
+Git & GitHub
+VS Code
+Vite
+📂 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚧 Coming soon... (or add your repos here)
+
+Example:
+
+🔗 Project Name — short description
+🔗 Another Project — what it does
+📊 GitHub Stats
+
+
+
+
+
+📫 Contact
+💼 LinkedIn: [your-link]
+📧 Email: [your-email]
+⚡ Fun fact
+
+I like turning ideas into real, working applications.
