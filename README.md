@@ -10,19 +10,19 @@
  
 ## Estatísticas
  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/icaro662/icaro662/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Perfil" width="100%"/>
+</p>
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/icaro662/icaro662/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Perfil" width="100%"/></td>
     <td><img src="https://raw.githubusercontent.com/icaro662/icaro662/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Linguagens por repositório" width="100%"/></td>
-  </tr>
-  <tr>
     <td><img src="https://raw.githubusercontent.com/icaro662/icaro662/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Linguagens mais usadas em commits" width="100%"/></td>
     <td><img src="https://raw.githubusercontent.com/icaro662/icaro662/main/profile-summary-card-output/github_dark/3-stats.svg" alt="Commits, PRs, Issues" width="100%"/></td>
   </tr>
-  <tr>
-    <td colspan="2" align="center"><img src="https://raw.githubusercontent.com/icaro662/icaro662/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Horários mais produtivos" width="70%"/></td>
-  </tr>
 </table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/icaro662/icaro662/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Horários mais produtivos" width="70%"/>
+</p>
 
 
 ## Sobre
