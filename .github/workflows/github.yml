@@ -1,6 +1,11 @@
-name: Generate cards
+name: Update GitHub Profile Summary Cards
  
 on:
+
+  push:
+    branches:
+      - main
+
   schedule:
     # runs once per day at midnight
     - cron: '0 0 * * *'
